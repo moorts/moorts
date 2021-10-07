@@ -1,5 +1,11 @@
-### Hi there 👋
+# Hello there :bird:
 
+Studying Computer Science in Germany. Currently interested in Cryptography, Emulators and Rust. Very lazy.
+
+## 📈 Stats, I guess
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=moorts&line_height=27&show_icons=true&theme=dracula"/>
 <!--
 **moorts/moorts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
