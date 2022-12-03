@@ -1,6 +1,6 @@
 # Hello there :bird:
 
-Studying Computer Science in Germany. Currently interested in Cryptography, Emulators and Rust. Very lazy.
+Studying Computer Science in Germany. Currently interested in Haskell, Abstract Algebra and Stuff. Very lazy.
 
 ## 📈 Stats, I guess
 
