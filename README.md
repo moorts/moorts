@@ -1,6 +1,6 @@
 # Hello there :bird:
 
-Studying Computer Science in Germany. Currently interested in Haskell, Abstract Algebra and Stuff. Very lazy.
+Studying Computer Science in Germany. I like algorithms, concurrency, rust and procrastination.
 
 ## 📈 Stats, I guess
 
