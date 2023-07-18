@@ -2,7 +2,7 @@
 
 Studying Computer Science in Germany. I like algorithms, concurrency, rust and procrastination.
 
-## 📈 Stats, I guess
+## 📈 Stats
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=moorts&line_height=27&show_icons=true&theme=dracula"/>
