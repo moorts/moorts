@@ -1,6 +1,6 @@
 # Hello there :bird:
 
-Studying Computer Science in Germany. I like algorithms, concurrency, rust and procrastination.
+Studying Computer Science in Germany. I like cryptography, algorithms, concurrency, etc.
 
 ## 📈 Stats
 
