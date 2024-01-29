@@ -1,6 +1,6 @@
 # Hello there :bird:
 
-Studying Computer Science in Germany. I like cryptography, algorithms, concurrency, etc.
+Studying Computer Science in Germany. I like cryptography, cybersecurity, rust, neovim and other things.
 
 ## 📈 Stats
 
